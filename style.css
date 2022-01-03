@@ -4,3 +4,24 @@ body{
 h1{
     font-size: 50px;
 }
+.name{
+    color: brown;
+}
+section{
+    display: flex;
+}
+.half-width{
+    margin-left: 2%;
+    width: 50%;
+}
+.half-width img{
+    width:80%;   
+}
+.hire-link{
+    text-decoration: none;
+    background-image:linear-gradient(orange, tomato );
+    padding: 10px 40px;
+    color: white;
+    border-radius: 5px;
+    font-weight: 700;
+}
